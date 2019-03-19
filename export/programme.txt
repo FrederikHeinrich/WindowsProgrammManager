@@ -1,0 +1,10 @@
+#Weitere Programme unter: chocolatey.org/packages/ 
+chocolatey
+adobereader
+office365business
+googlechrome
+firefox
+7zip.install
+pdfcreator
+chocolatey-windowsupdate.extension
+#von FrederikHeinrich.de
